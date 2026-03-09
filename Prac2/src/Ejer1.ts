@@ -44,6 +44,6 @@ class CuentaCorriente extends CuentaBancaria{
     }
 }
 
-let cuenta = new CuentaAhorro('Chris', 200)
+let cuenta = new CuentaAhorro('Christian', 200)
 cuenta.depositar(100)
 cuenta.retirar(50)
